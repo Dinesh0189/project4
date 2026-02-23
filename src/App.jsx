@@ -16,7 +16,7 @@ export default function App() {
             <li
               key={item}
               style={{
-                background: "#cd1fa7ff",
+                background: "#372cceff",
                 height: "20px",
                 width: "200px",
                 margin: "10px 0",
