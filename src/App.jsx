@@ -7,7 +7,7 @@ export default function App() {
   return (
     <div style={{ padding: 40 }}>
       <Toaster position="top-right" reverseOrder={false} />
-      <h1>Axios Instance Demo</h1>
+      <h1>Axios Instance Demoo</h1>
       <h3>User List :</h3>
 
       {isLoading ? (
