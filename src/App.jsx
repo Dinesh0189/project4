@@ -12,7 +12,7 @@ export default function App() {
 
       {isLoading ? (
         <ul>
-          {[1, 2, 3, 4, 5].map((item) => (
+          {[1, 2, 3, 4, 5,6,7].map((item) => (
             <li
               key={item}
               style={{
